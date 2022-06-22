@@ -6,8 +6,7 @@ Python is the #1 programming language according to the TIOBE. It's a beginner fr
 In this 5 part course, I'll teach you how to write python code and make robots that play video games.
 - Learn Python
 - Depth First Search (DFS)
-- Breadth First Search (BFS)
-- A* Search
 - Minimax
+- A* Search
 
 I recommend taking a few days for each video to practice what you've learned before moving to the next.
